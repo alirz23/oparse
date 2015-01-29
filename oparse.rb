@@ -1,2 +1,0 @@
-require "oparse/parser.rb"
-

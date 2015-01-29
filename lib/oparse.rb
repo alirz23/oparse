@@ -1,5 +1,6 @@
 require "optparse"
-module Aparse
+
+module Oparse
 
     VERSION = "0.1.0"
 
